@@ -1,7 +1,0 @@
-<video src="video/就練，練到打的到為止.mp4"
-       poster="picture/cat.jpg"
-       width="450" 
-       height="300" 
-       autoplay="true" 
-       controls="true" 
-</video>
